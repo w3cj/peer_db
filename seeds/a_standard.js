@@ -10,7 +10,7 @@ exports.seed = function(knex, Promise) {
         id: 1,
         description: 'use cold calling to improve learning',
         name: 'cold calling',
-        domain: 'questions',
+        domain: 1,
         DSI: true,
         WDI: true
       })
