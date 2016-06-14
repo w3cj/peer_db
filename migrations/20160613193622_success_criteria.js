@@ -4,6 +4,7 @@ exports.up = function(knex, Promise) {
     table.increments();
     table.integer('standard_id').unsigned().references('id').inTable('standard').onDelete('cascade');
     table.text('description');
+    table.integer('order');
   });
 };
 

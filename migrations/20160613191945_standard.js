@@ -4,8 +4,9 @@ exports.up = function(knex, Promise) {
     table.increments();
     table.text('description');
     table.text('name');
-    table.boolean('DSI');
-    table.boolean('WDI');
+    table.text('topic');
+    table.boolean('DSI').defaultTo(true);
+    table.boolean('WDI').defaultTo(true);
   });
 };
 
