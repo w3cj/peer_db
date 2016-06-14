@@ -4,7 +4,7 @@ exports.up = function(knex, Promise) {
     table.increments();
     table.text('description');
     table.text('name');
-    table.text('topic');
+    table.text('domain');
     table.boolean('DSI').defaultTo(true);
     table.boolean('WDI').defaultTo(true);
   });
