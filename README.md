@@ -2,6 +2,6 @@
 
 This repo holds the migrations and seeds for the Peer Observation database.
 
-Schema as of commit 05b131a375fe226691c5e59de8d6acd7de9b4db7
+Schema as of commit 1dec603c28611cafd2302c2b8a439c6964d2b126
 
 ![](schema.png)
