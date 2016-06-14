@@ -1,12 +1,17 @@
 
-//exports.seed = function(knex, Promise) {
-  //return Promise.join(
-    //// Deletes ALL existing entries
-    //knex('table_name').del(),
+exports.seed = function(knex, Promise) {
+  return Promise.join(
+    // Deletes ALL existing entries
+    knex('standard').del(),
 
-    //// Inserts seed entries
-    //knex('table_name').insert({id: 1, colName: 'rowValue'}),
-    //knex('table_name').insert({id: 2, colName: 'rowValue2'}),
-    //knex('table_name').insert({id: 3, colName: 'rowValue3'})
-  //);
-//};
+     //Inserts seed entries
+    knex('standard').insert({
+      id: 1,
+      description: 'use cold calling to improve learning',
+      name: 'cold calling',
+      domain: 'questions',
+      DSI: true,
+      WDI: true
+    })
+  );
+};
