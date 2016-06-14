@@ -24,7 +24,6 @@ exports.seed = function(knex, Promise) {
         notes: 'chris spent a good amount of time cold calling students, but he failed to wait the appropriate amount of time before calling on them.',
         materials: 'www.google.com'
       }),
-
       knex('peer_observation').insert({
         id: 3,
         observer_id: 3,
