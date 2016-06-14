@@ -1,0 +1,279 @@
+{
+    "Communicating Clearly": {
+        "standards": [{
+            "name": "Strong Voice",
+            "description": "Affirm your authority through intentional verbal and nonverbal habits using ‘Strong Voice’",
+            "success_criteria": [{
+                "description": "Speaks with a loud, clear, and understandable voice.",
+                "order": 0
+            }, {
+                "description": "Uses the fewest words possible to communicate, keeping diction clear and concise (‘Economy of Language’)",
+                "order": 1
+            }, {
+                "description": "‘Squares up’ and stands still when saying something important",
+                "order": 2
+            }, {
+                "description": "Utilizes non-verbal cues, such as eye contact and body position, to support/reinforce verbal communication",
+                "order": 3
+            }]
+        }]
+    },
+    "Gathering and Acting on Student Mastery Data": {
+        "standards": [{
+            "name": "Reject Self-Report",
+            "description": "Replace questions that ask students to self-report with more objective forms of impromptu assessment through ‘Reject Self-Report’",
+            "success_criteria": [{
+                "description": "Rather than relying on self-report, the instructor uses another check for understanding technique to measure mastery (e.g. targeted questioning, cold call, turn and talk).",
+                "order": 0
+            }, {
+                "description": "Uses self-report only to reinforce student self-monitoring (student self-reflection on learning progress).",
+                "order": 1
+            }]
+        }, {
+            "name": "Targeted Questioning",
+            "description": "Ask a quick series of carefully chosen, open-ended questions directed at a strategic sample of the class with ‘Targeted Questioning’.",
+            "success_criteria": [{
+                "description": "Asks sets of questions that check for student understanding of concepts introduced in the lesson",
+                "order": 0
+            }, {
+                "description": "Asks a question first, provides Wait Time, and then chooses a technique (Cold Call, Everybody Writes, Turn and Talk, etc.) to gather data from a strategic sample of students in the class",
+                "order": 1
+            }, {
+                "description": "The process of ‘targeted questioning’ feels quick and efficient",
+                "order": 2
+            }]
+        }, {
+            "name": "Culture of Error",
+            "description": "Create a ‘Culture of Error’ where your students feel safe making and discussing mistakes, so you can spend less time hunting for errors and more time fixing them.",
+            "success_criteria": [{
+                "description": "Communicates through words and actions (e.g. tone and facial expressions) that mistakes are a welcomed, necessary part of the learning process.",
+                "order": 0
+            }, {
+                "description": "Provides opportunities for student to submit work, receive feedback, make changes and submit again.",
+                "order": 1
+            }]
+        }, {
+            "name": "Excavate Error",
+            "description": "‘Excavate Error’ when appropriate to help students learn from mistakes.",
+            "success_criteria": [{
+                "description": "If only a few students make a mistake, use ‘assess and move’, returning to reteach the concept one-on-one or in a small group.",
+                "order": 0
+            }, {
+                "description": "If more than a few students make an error, or the error is crucial, quickly analyze the error with your students through ‘light excavation’.",
+                "order": 1
+            }, {
+                "description": "Use ‘deep excavation’ to thoroughly analyze deep or widespread errors with your class when the discussion will be especially fruitful.",
+                "order": 2
+            }]
+        }]
+    },
+    "Setting High Academic Expectations": {
+        "standards": [{
+            "name": "Right is Right",
+            "description": "When you respond to answers in class, hold out for answers that are “all-the-way right” or all the way to your standards of rigor through ‘Right is Right’.",
+            "success_criteria": [{
+                "description": "Does not ‘round up’ student answers that are only partially correct.",
+                "order": 0
+            }, {
+                "description": "Insists that students answer the question that was asked.",
+                "order": 1
+            }, {
+                "description": "Insists that students use specific vocabulary and technical terminology when answering a question.",
+                "order": 2
+            }]
+        }, {
+            "name": "Stretch It",
+            "description": "Reward “right” answers with harder questions through ‘Stretch It’.",
+            "success_criteria": [{
+                "description": "After a student answers a question correctly, pushes for more rigor and engagement with a follow-up question",
+                "order": 0
+            }]
+        }, {
+            "name": "Begin with the End",
+            "description": "After looking at the standard-assessment(s), define the objective(s), decide how you'll assess them, and then choose appropriate lesson activities through ‘Begin with the End’.",
+            "success_criteria": [{
+                "description": "First, unpack the standard into clear, measurable, student-centered objectives.",
+                "order": 0
+            }, {
+                "description": "Second, design objective-assessments (checks for understanding that are aligned with the objectives).",
+                "order": 1
+            }, {
+                "description": "Finally, plan the learning activities (lessons, learning experiences).",
+                "order": 2
+            }]
+        }, {
+            "name": "Post It",
+            "description": "Identify and reinforce the lesson objectives with ‘Post It’",
+            "success_criteria": [{
+                "description": "Post the objectives in a consistent, visible location",
+                "order": 0
+            }, {
+                "description": "Discuss the objectives at beginning of the lesson",
+                "order": 1
+            }, {
+                "description": "Return to and reinforce the objectives throughout the lesson to encourage student self-monitoring",
+                "order": 2
+            }]
+        }, {
+            "name": "Double Plan",
+            "description": "Plan what instructors and students will be doing at each point of a lesson with  ‘Double Plan’",
+            "success_criteria": [{
+                "description": "Lesson plan/notes contains instructions for both teacher and students",
+                "order": 0
+            }, {
+                "description": "During the lesson, instructor gives clear instructions for what students should do at all times to maximize productive engagement",
+                "order": 1
+            }]
+        }, {
+            "name": "Name the Steps",
+            "description": "Break down complex tasks into steps that form a path for student mastery with ‘Name the Steps’.",
+            "success_criteria": [{
+                "description": "Identify and list the steps that students will need to complete a complex task",
+                "order": 0
+            }, {
+                "description": "Give each step a name/title/mnemonic so it’s “sticky” (easier to remember)",
+                "order": 1
+            }, {
+                "description": "Post the steps in a convenient/visible location so students can refer back to them as they complete the task",
+                "order": 2
+            }, {
+                "description": "Highlight both the problem (the concrete) and the process (the abstract) when modeling the steps.",
+                "order": 3
+            }]
+        }, {
+            "name": "At Bats",
+            "description": "Give your students lots and lots of practice mastering knowledge or skills with ‘At Bats’.",
+            "success_criteria": [{
+                "description": "Plans ‘at bat’ opportunities in advance",
+                "order": 0
+            }, {
+                "description": "Provides enough ‘at bats’ for students to develop fluency with the knowledge or skill",
+                "order": 1
+            }, {
+                "description": "Uses multiple variations and formats for ‘at bats’ to ensure students can use the knowledge/skill in multiple contexts",
+                "order": 2
+            }, {
+                "description": "Provides ‘at bat’ opportunities for enrichment and differentiation",
+                "order": 3
+            }]
+        }, {
+            "name": "Exit Ticket",
+            "description": "End class with an explicit assessment of your objective that you can use to evaluate your (and your students') success with ‘Exit Ticket’.",
+            "success_criteria": [{
+                "description": "Exit ticket is quick and easy to grade.",
+                "order": 0
+            }, {
+                "description": "Exit ticket is designed to yield data - it’s easy to interpret mistakes to see which part of the objective was missed.",
+                "order": 1
+            }, {
+                "description": "Exit ticket is aligned to the intended outcomes.",
+                "order": 2
+            }]
+        }, {
+            "name": "Work the Clock",
+            "description": "Measure time intentionally, strategically, and often visibly to shape both your and your students' experience in the classroom through ‘Work the Clock’.",
+            "success_criteria": [{
+                "description": "Tell students how much time you have allocated for a lesson or lesson-activity, and ensure you stay within your time constraint by using a timer or naming a time everyone is due to come back by",
+                "order": 0
+            }, {
+                "description": "Share time management responsibilities with students working together to decide how long an activity should take and display a timer",
+                "order": 1
+            }]
+        }]
+    },
+    "Building Ratio through Questioning, Writing, and Discussion": {
+        "standards": [{
+            "name": "Wait Time",
+            "description": "Provide ‘Wait Time’ so students have time to think before answering.",
+            "success_criteria": [{
+                "description": "After asking a question to check for student understanding, wait at least five seconds before eliciting student responses",
+                "order": 0
+            }]
+        }, {
+            "name": "Cold Call",
+            "description": "‘Cold Call’ on students regardless of whether they've raised their hands to strategically sample data and keep everyone engaged.",
+            "success_criteria": [{
+                "description": "There is evidence that a predictable, systematic, and positive Cold Call procedure is established in the classroom",
+                "order": 0
+            }, {
+                "description": "Provides appropriate Wait Time to give students the opportunity to think/process.",
+                "order": 1
+            }, {
+                "description": "Strategically samples students to collect reliable mastery data (purposefully calling on students of varying levels regardless of whether or not they have their hands raised).",
+                "order": 2
+            }, {
+                "description": "Does not use cold-calling as an attention-getting or behavior management technique (uses it only for checking for understanding)",
+                "order": 3
+            }]
+        }, {
+            "name": "Everybody Writes",
+            "description": "Require students to wrestle with content through ‘Everybody Writes’.",
+            "success_criteria": [{
+                "description": "Before starting a class discussion, give students a writing prompt that requires them to process and reflect on the content that they will be discussing",
+                "order": 0
+            }, {
+                "description": "Front discussions with writing to increase the rigor of thought",
+                "order": 1
+            }]
+        }, {
+            "name": "Turn and Talk",
+            "description": "Encourage students to better formulate their thoughts by including short, contained pair discussions with ‘Turn and Talk’.",
+            "success_criteria": [{
+                "description": "Before directing students to ‘turn and talk,’ instructs students on how to pair (with someone sitting next to you, with someone from across the room, etc.)",
+                "order": 0
+            }, {
+                "description": "Clearly indicates when discussion should start and end with an ‘in cue’ and ‘out cue’",
+                "order": 1
+            }, {
+                "description": "Transitions from ‘turn and talk’ in a way that holds students accountable and gives them an opportunity to apply what they gleaned from the conversation.",
+                "order": 2
+            }]
+        }]
+    },
+    "Cultivating a Positive Culture of Learning": {
+        "standards": [{
+            "name": "Positive Framing",
+            "description": "Guide students to do better work while motivating and inspiring them by using ‘Positive Framing’ to deliver constructive feedback.",
+            "success_criteria": [{
+                "description": "‘Assume the Best’ - Communicates faith and trust in the student when delivering constructive criticism - assumes the best about the student’s intentions.",
+                "order": 0
+            }, {
+                "description": "‘Live in the now’ - Avoids discussing what the student can no longer fix. Focuses on what to learn from mistakes rather than the mistake itself.",
+                "order": 1
+            }, {
+                "description": "‘Allow Plausible Anonymity’ - avoid singling out students for mistakes if you don’t have to.",
+                "order": 2
+            }, {
+                "description": "‘Narrate the positive and build momentum’ - highlight what’s going well/right to build momentum and keep the class moving",
+                "order": 3
+            }]
+        }, {
+            "name": "Precise Praise",
+            "description": "Be strategic with positive reinforcement by providing ‘Precise Praise’",
+            "success_criteria": [{
+                "description": "Praise actions, not traits (‘You worked hard to solve the warm up problem, and look, your code works!’ vs. ‘You are so smart.’)",
+                "order": 0
+            }, {
+                "description": "Align praise with learning objectives and standards",
+                "order": 1
+            }, {
+                "description": "Modulate and vary the delivery of praise: be loud and quiet, public and private",
+                "order": 2
+            }]
+        }, {
+            "name": "Warm/Strict",
+            "description": "Communicate and enforce high expectations with ‘Warm/Strict’.",
+            "success_criteria": [{
+                "description": "Communicate and enforce high expectations by being clear, consistent, firm",
+                "order": 0
+            }]
+        }, {
+            "name": "Joy Factor",
+            "description": "Celebrate the work of learning as you go with ‘Joy Factor’.",
+            "success_criteria": [{
+                "description": "Instructors and students display genuine excitement and enthusiasm for the work of learning",
+                "order": 0
+            }]
+        }]
+    }
+}
