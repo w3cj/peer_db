@@ -1,6 +1,6 @@
 
 exports.seed = function(knex, Promise) {
-  return knex.raw('ALTER SEQUENCE instructor_campus_id_seq restart with 5').then(function () {
+  return knex.raw('ALTER SEQUENCE instructor_campus_id_seq restart with 6').then(function () {
     return Promise.join(
       // Deletes ALL existing entries
       knex('instructor_campus').del(),
@@ -11,18 +11,24 @@ exports.seed = function(knex, Promise) {
         instructor_id: 1,
         campus_id: 8
       }),
+
       knex('instructor_campus').insert({
         id: 2,
+        instructor_id: 1,
+        campus_id: 4
+      }),
+      knex('instructor_campus').insert({
+        id: 3,
         instructor_id: 2,
         campus_id: 8
       }),
       knex('instructor_campus').insert({
-        id: 3,
+        id: 4,
         instructor_id: 3,
         campus_id: 8
       }),
       knex('instructor_campus').insert({
-        id: 4,
+        id: 5,
         instructor_id: 4,
         campus_id: 8
       })
