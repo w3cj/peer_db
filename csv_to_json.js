@@ -14,11 +14,12 @@ fs.readFile('./seeds/standards_and_success_criteria.csv', (error, data) => {
 
       let standard = {
         name: row[1],
-        description: row[2],
+        info: row[2],
+        description: row[3],
         success_criteria: []
       }
 
-      for (var j = 3; j < row.length; j++) {
+      for (var j = 4; j < row.length; j++) {
         if(row[j]) {
           standard.success_criteria.push({
             description: row[j],
