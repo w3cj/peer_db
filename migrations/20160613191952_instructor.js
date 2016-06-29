@@ -5,6 +5,7 @@ exports.up = function(knex, Promise) {
     table.text('first_name');
     table.text('last_name');
     table.text('github_id');
+    table.text('avatar_url');
   });
 };
 
