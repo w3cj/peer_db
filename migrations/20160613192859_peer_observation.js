@@ -8,7 +8,7 @@ exports.up = function(knex, Promise) {
     table.text('learning_objectives');
     table.datetime('observation_date');
     table.datetime('debrief_date');
-    table.text('notes');
+    table.text('lesson_notes');
     table.text('materials');
   });
 };
