@@ -1,6 +1,6 @@
 // Update with your config settings.
 
-require('dotenv').load();
+require('dotenv').load({silent: true});
 
 module.exports = {
   development: {

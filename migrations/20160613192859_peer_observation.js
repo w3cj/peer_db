@@ -9,6 +9,7 @@ exports.up = function(knex, Promise) {
     table.datetime('observation_date');
     table.datetime('debrief_date');
     table.text('lesson_notes');
+    table.integer('status').defaultTo(0);
     table.text('materials');
   });
 };

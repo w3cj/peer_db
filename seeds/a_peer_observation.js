@@ -14,7 +14,8 @@ exports.seed = function(knex, Promise) {
         observation_date: new Date(5, 14, 2016),
         debrief_date: new Date(5, 14, 2016),
         lesson_notes: 'lionel spent a good amount of time cold calling students, but he failed to wait the appropriate amount of time before calling on them.',
-        materials: 'www.google.com'
+        materials: 'www.google.com',
+        status: 0
       }),
       knex('peer_observation').insert({
         id: 2,
@@ -25,7 +26,8 @@ exports.seed = function(knex, Promise) {
         lesson_title: 'jquery basics',
         observation_date: new Date(5, 14, 2016),
         lesson_notes: 'chris spent a good amount of time cold calling students, but he failed to wait the appropriate amount of time before calling on them.',
-        materials: 'www.google.com'
+        materials: 'www.google.com',
+        status: 1
       }),
       knex('peer_observation').insert({
         id: 3,
@@ -36,7 +38,8 @@ exports.seed = function(knex, Promise) {
         learning_objectives: 'select elements from the DOM.',
         observation_date: new Date(5, 14, 2016),
         lesson_notes: 'adam spent a good amount of time cold calling students, but he failed to wait the appropriate amount of time before calling on them.',
-        materials: 'www.google.com'
+        materials: 'www.google.com',
+        status: 2
       })
     );
   });
