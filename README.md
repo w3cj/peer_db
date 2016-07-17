@@ -16,6 +16,6 @@ The DB should be created, migrated, and seeded before starting the server or cli
 
 `knex seed:run`
 
-Schema as of commit 1dec603c28611cafd2302c2b8a439c6964d2b126
+Schema as of commit 7c663adba9ae1e4a5ce9e506e01b916b586d10a8
 
-![](schema.png)
+![](https://www.lucidchart.com/publicSegments/view/27ecec9d-a456-4969-b2b7-dfce4f2991e4/image.png)
