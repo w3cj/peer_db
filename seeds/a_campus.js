@@ -1,6 +1,6 @@
 
 module.exports.seed = function(knex, Promise) {
-  return knex.raw('ALTER SEQUENCE campus_id_seq restart with 9;').then(function () {
+  return knex.raw('ALTER SEQUENCE campus_id_seq restart with 9;').then(() => {
     return Promise.join(
       knex('campus').del(),
       knex('campus').insert({

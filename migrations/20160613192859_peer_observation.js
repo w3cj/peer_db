@@ -8,9 +8,9 @@ exports.up = function(knex, Promise) {
     table.text('learning_objectives');
     table.datetime('observation_date');
     table.datetime('debrief_date');
-    table.text('lesson_notes');
+    table.text('lesson_notes').defaultTo('');
     table.integer('status').defaultTo(0);
-    table.text('materials');
+    table.text('materials').defaultTo('');
   });
 };
 

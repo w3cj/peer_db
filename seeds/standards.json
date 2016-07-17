@@ -197,8 +197,8 @@
     },
     "Building Ratio through Questioning, Writing, and Discussion": {
         "standards": [{
-            "name": "https://docs.google.com/document/d/1Zsc5FaxWjuaej4MR6F1kXhP0k_Vk1P4r1SUtbfCOnRk/edit#heading=h.qhbs4vv949z6",
-            "info": "Wait Time",
+            "name": "Wait Time",
+            "info": "https://docs.google.com/document/d/1Zsc5FaxWjuaej4MR6F1kXhP0k_Vk1P4r1SUtbfCOnRk/edit#heading=h.qhbs4vv949z6",
             "description": "Provide ‘Wait Time’ so students have time to think before answering.",
             "success_criteria": [{
                 "description": "After asking a question to check for student understanding, wait at least five seconds before eliciting student responses",
