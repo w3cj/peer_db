@@ -33,7 +33,7 @@ module.exports.seed = function(knex, Promise) {
         first_name: 'Adam',
         last_name: 'Lichty',
         github_id: 5067571,
-        avatar_url: 'https://api.github.com/users/MrJadaml'
+        avatar_url: 'https://avatars.githubusercontent.com/u/5067571?v=3'
       })
     );
   });
